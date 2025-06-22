@@ -1,0 +1,43 @@
+<screen>
+    <a:container>
+        <word_name>Le</word_name>
+        <word_type>Word Class</word_type>
+        <word_gender>Masculine</word_gender>
+        <word_usage>Word classes begin the sentence before every classified noun.</word_usage>
+        <word_probability>0.083333333</word_probability>
+
+        <words_associated>
+            <pomme>Pomme</pomme>
+            <carrot>Carrot</carrot>
+            <banane>Banane</banane>
+        </words_associated>
+    </a:container>
+
+    <b:container>
+        <word_name>La</word_name>
+        <word_type>Word Class</word_type>
+        <word_gender>Feminine</word_gender>
+        <word_usage>Word classes begin the sentence before every classified noun.</word_usage>
+        <word_probability>0.083333333</word_probability>
+
+        <words_associated>
+            <pomme>Pomme</pomme>
+            <carrot>Carrot</carrot>
+            <banane>Banane</banane>
+        </words_associated>
+    </b:container>
+
+    <c:container>
+        <word_name>Les</word_name>
+        <word_type>Word Class</word_type>
+        <word_gender>Plural</word_gender>
+        <word_usage>Word classes begin the sentence before every classified noun.</word_usage>
+        <word_probability>0.083333333</word_probability>
+
+        <words_associated>
+            <pomme>Pommes</pomme>
+            <carrot>Carrots</carrot>
+            <banane>Bananes</banane>
+        </words_associated>
+    </c:container>
+</screen>
