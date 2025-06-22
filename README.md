@@ -1,1 +1,1 @@
-# ContainerizedEmergentSemanticsLanguage
+# Containerized Emergent Semantics Language
