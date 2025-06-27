@@ -40,4 +40,17 @@
             <banane>Bananes</banane>
         </words_associated>
     </c:container>
+
+    <d:container>
+        <word_name>Un</word_name>
+        <word_type>Word Class</word_type>
+        <word_gender>Masculine</word_gender>
+        <word_usage>Equivlane to A in the English language..</word_usage>
+        <word_probability>0.083333333</word_probability>
+
+        <words_associated>
+            <ordinateur>Ordinateur</ordinateur>
+            <carrot>Crayon</carrot>
+        </words_associated>
+    </d:container>
 </screen>
