@@ -1,5 +1,5 @@
 <screen>
-    <a:container>
+    <container>
         <word_name>Le</word_name>
         <word_type>Word Class</word_type>
         <word_gender>Masculine</word_gender>
@@ -11,9 +11,9 @@
             <carrot>Carrot</carrot>
             <banane>Banane</banane>
         </words_associated>
-    </a:container>
+    </container>
 
-    <b:container>
+    <container>
         <word_name>La</word_name>
         <word_type>Word Class</word_type>
         <word_gender>Feminine</word_gender>
@@ -25,9 +25,9 @@
             <carrot>Carrot</carrot>
             <banane>Banane</banane>
         </words_associated>
-    </b:container>
+    </container>
 
-    <c:container>
+    <container>
         <word_name>Les</word_name>
         <word_type>Word Class</word_type>
         <word_gender>Plural</word_gender>
@@ -39,9 +39,9 @@
             <carrot>Carrots</carrot>
             <banane>Bananes</banane>
         </words_associated>
-    </c:container>
+    </container>
 
-    <d:container>
+    <container>
         <word_name>Un</word_name>
         <word_type>Word Class</word_type>
         <word_gender>Masculine</word_gender>
@@ -52,5 +52,5 @@
             <ordinateur>Ordinateur</ordinateur>
             <carrot>Crayon</carrot>
         </words_associated>
-    </d:container>
+    </container>
 </screen>
